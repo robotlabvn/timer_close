@@ -1,0 +1,4 @@
+<launch>
+<node pkg= "timer_close" type ="timer_close.py" name="timer_close" output="screen">
+</node>
+</launch>
